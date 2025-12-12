@@ -1,0 +1,3 @@
+[submodule "examples/pg-cdc-nats-bridge"]
+	path = examples/pg-cdc-nats-bridge
+	url = https://github.com/ndrean/PG-CDC-NATS-BRIDGE.git
